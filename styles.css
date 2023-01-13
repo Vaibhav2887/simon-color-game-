@@ -17,6 +17,15 @@ body {
 
 }
 
+.btna {
+  margin: 25px;
+  display: inline-block;
+  height: 40px;
+  width: 200px;
+}
+.miss{
+  display: none;
+}
 .btn {
   margin: 25px;
   display: inline-block;
